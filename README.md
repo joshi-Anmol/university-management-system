@@ -3,3 +3,5 @@ Sankalp University Management System is an SQL-based project that models academi
 author : Anmol Joshi 
 <br>
 languages used : mySQL 
+<br>
+platform used : MySQL 
